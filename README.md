@@ -1,27 +1,89 @@
-## Bem-vindo(a) ao perfil do Jeferson Arruda 😁
+# Olá! 👋 Eu sou Jeferson Arruda
 
- <div>
-   <a href="https://github.com/Jeferson-Arruda">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeferson-Arruda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson-Arruda&layout=compact&langs_count=6&theme=tokyonight"/>
+🎓 Pós-graduação Lato Sensu em Desenvolvimento de Sistemas com Java.
 
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
- 
-<div> 
+Sou apaixonado por tecnologia e estou construindo minha carreira como Desenvolvedor Full Stack, fortalecendo minha base em Java enquanto continuo evoluindo no desenvolvimento Front-end.
 
+Atualmente estou desenvolvendo projetos próprios para aplicar na prática os conhecimentos adquiridos durante a pós-graduação.
 
+---
 
-  <a href="https://www.linkedin.com/in/jeferson-arruda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Jeferson-Arruda/Jeferson-Arruda/blob/output/github-contribution-grid-snake.svg)
+## 🚀 Atualmente estudando
 
-</div>
+☕ Java
+
+🌱 Spring Boot
+
+🗄 PostgreSQL
+
+🐘 JPA / Hibernate
+
+🌐 APIs REST
+
+⚛ React
+
+🐙 Git & GitHub
+
+---
+
+## 💻 Tecnologias
+
+### Front-end
+
+- HTML5
+- CSS3
+- JavaScript
+- React *(em evolução)*
+
+### Back-end
+
+- Java
+- Spring Boot *(em aprendizado)*
+
+### Banco de Dados
+
+- PostgreSQL
+- MySQL
+
+### Ferramentas
+
+- Git
+- GitHub
+- IntelliJ IDEA
+- VS Code
+
+---
+
+## 📚 Projetos em desenvolvimento
+
+🔹 JavaLab
+
+Laboratório de estudos em Java desenvolvido durante minha pós-graduação.
+
+---
+
+🔹 StockFlow ERP
+
+Sistema completo de gestão empresarial desenvolvido em Java + Spring Boot.
+
+Projeto principal do meu portfólio.
+
+---
+
+## 🎯 Objetivos
+
+✔ Evoluir como Desenvolvedor Full Stack.
+
+✔ Construir aplicações completas utilizando Java no back-end e React no front-end.
+
+✔ Criar projetos que demonstrem conhecimento técnico e boas práticas de desenvolvimento.
+
+---
+
+## 📫 Contato
+
+GitHub:
+https://github.com/Jeferson-Arruda
+
+LinkedIn:
+https://www.linkedin.com/in/jeferson-arruda/
