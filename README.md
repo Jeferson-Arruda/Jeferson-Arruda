@@ -56,12 +56,6 @@ Atualmente estou desenvolvendo projetos próprios para aplicar na prática os co
 
 ## 📚 Projetos em desenvolvimento
 
-🔹 JavaLab
-
-Laboratório de estudos em Java desenvolvido durante minha pós-graduação.
-
----
-
 🔹 StockFlow ERP
 
 Sistema completo de gestão empresarial desenvolvido em Java + Spring Boot.
